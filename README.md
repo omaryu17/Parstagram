@@ -5,7 +5,7 @@
 Time spent: **8** hours spent in total
 
 
-## Video Walkthrough Part 2
+## GIF Walkthrough
 
 <img src='https://github.com/omaryu17/Parstagram/blob/master/walkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
